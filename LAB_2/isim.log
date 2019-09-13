@@ -1,0 +1,62 @@
+ISim log file
+Running: C:\Users\Students\Downloads\EE17B062\LAB_2\dmem_tb_isim_beh.exe -gui -tclbatch isim.cmd -wdb C:/Users/Students/Downloads/EE17B062/LAB_2/dmem_tb_isim_beh.wdb 
+ISim M.81d (signature 0x12940baa)
+This is a Full version of ISim.
+WARNING: File "C:/Users/Students/Downloads/EE17B062/LAB_2/DMEM_tb.v" Line 6.  For instance dmem_tb/data_mem0/, width 2 of formal port we is not equal to width 1 of actual variable we. 
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+WARNING: No file found 
+yet_to_add.txtFinished circuit initialization process.
+                  20 Fail outdata=00000001 expected data=xxxxxxxx iter=          0
+                  40 Fail outdata=00000001 expected data=xxxxxxxx iter=          1
+                  60 Fail outdata=00000001 expected data=xxxxxxxx iter=          2
+                  80 Fail outdata=00000001 expected data=xxxxxxxx iter=          3
+                 100 Fail outdata=00000001 expected data=xxxxxxxx iter=          4
+                 120 Fail outdata=00000001 expected data=xxxxxxxx iter=          5
+                 140 Fail outdata=00000001 expected data=xxxxxxxx iter=          6
+                 160 Fail outdata=00000001 expected data=xxxxxxxx iter=          7
+                 180 Fail outdata=00000001 expected data=xxxxxxxx iter=          8
+                 200 Fail outdata=00000001 expected data=xxxxxxxx iter=          9
+                 220 Fail outdata=00000001 expected data=xxxxxxxx iter=         10
+                 240 Fail outdata=00000001 expected data=xxxxxxxx iter=         11
+                 260 Fail outdata=00000001 expected data=xxxxxxxx iter=         12
+                 280 Fail outdata=00000001 expected data=xxxxxxxx iter=         13
+                 300 Fail outdata=00000001 expected data=xxxxxxxx iter=         14
+                 320 Fail outdata=00000001 expected data=xxxxxxxx iter=         15
+                 340 Fail outdata=00000001 expected data=xxxxxxxx iter=         16
+                 360 Fail outdata=00000001 expected data=xxxxxxxx iter=         17
+                 380 Fail outdata=00000001 expected data=xxxxxxxx iter=         18
+                 400 Fail outdata=00000001 expected data=xxxxxxxx iter=         19
+                 420 Fail outdata=00000001 expected data=xxxxxxxx iter=         20
+                 440 Fail outdata=00000001 expected data=xxxxxxxx iter=         21
+                 460 Fail outdata=00000001 expected data=xxxxxxxx iter=         22
+                 480 Fail outdata=00000001 expected data=xxxxxxxx iter=         23
+                 500 Fail outdata=00000001 expected data=xxxxxxxx iter=         24
+                 520 Fail outdata=00000001 expected data=xxxxxxxx iter=         25
+                 540 Fail outdata=00000001 expected data=xxxxxxxx iter=         26
+                 560 Fail outdata=00000001 expected data=xxxxxxxx iter=         27
+                 580 Fail outdata=00000001 expected data=xxxxxxxx iter=         28
+                 600 Fail outdata=00000001 expected data=xxxxxxxx iter=         29
+                 620 Fail outdata=00000001 expected data=xxxxxxxx iter=         30
+                 640 Fail outdata=00000001 expected data=xxxxxxxx iter=         31
+                 660 Fail outdata=00000001 expected data=xxxxxxxx iter=         32
+                 680 Fail outdata=00000001 expected data=xxxxxxxx iter=         33
+                 700 Fail outdata=00000001 expected data=xxxxxxxx iter=         34
+                 720 Fail outdata=00000001 expected data=xxxxxxxx iter=         35
+                 740 Fail outdata=00000001 expected data=xxxxxxxx iter=         36
+                 760 Fail outdata=00000001 expected data=xxxxxxxx iter=         37
+                 780 Fail outdata=00000001 expected data=xxxxxxxx iter=         38
+                 800 Fail outdata=00000001 expected data=xxxxxxxx iter=         39
+                 820 Fail outdata=00000001 expected data=xxxxxxxx iter=         40
+                 840 Fail outdata=00000001 expected data=xxxxxxxx iter=         41
+                 860 Fail outdata=00000001 expected data=xxxxxxxx iter=         42
+                 880 Fail outdata=00000001 expected data=xxxxxxxx iter=         43
+                 900 Fail outdata=00000001 expected data=xxxxxxxx iter=         44
+                 920 Fail outdata=00000001 expected data=xxxxxxxx iter=         45
+                 940 Fail outdata=00000001 expected data=xxxxxxxx iter=         46
+                 960 Fail outdata=00000001 expected data=xxxxxxxx iter=         47
+                 980 Fail outdata=00000001 expected data=xxxxxxxx iter=         48
+                1000 Fail outdata=00000001 expected data=xxxxxxxx iter=         49
