@@ -1,0 +1,45 @@
+Running: C:\Xilinx3\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o X:/ass5/cpu_tb_isim_beh.exe -prj X:/ass5/cpu_tb_beh.prj work.cpu_tb work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "X:/ass5/shifter.v" into library work
+Analyzing Verilog file "X:/ass5/forwarder.v" into library work
+Analyzing Verilog file "X:/ass5/decoder.v" into library work
+Analyzing Verilog file "X:/ass5/alu32.v" into library work
+Analyzing Verilog file "X:/ass5/stage4.v" into library work
+Analyzing Verilog file "X:/ass5/stage3.v" into library work
+Analyzing Verilog file "X:/ass5/stage2.v" into library work
+Analyzing Verilog file "X:/ass5/stage1.v" into library work
+Analyzing Verilog file "X:/ass5/registerFile.v" into library work
+Analyzing Verilog file "X:/ass5/IMEM.v" into library work
+Analyzing Verilog file "X:/ass5/dmem.v" into library work
+Analyzing Verilog file "X:/ass5/CPU3.v" into library work
+Analyzing Verilog file "X:/ass5/arbiter.v" into library work
+Analyzing Verilog file "X:/ass5/accumulator.v" into library work
+Analyzing Verilog file "X:/ass5/cpu_tb.v" into library work
+Analyzing Verilog file "C:/Xilinx3/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module stage1
+Compiling module Decoder
+Compiling module stage2
+Compiling module RF
+Compiling module ALU32
+Compiling module forwarder
+Compiling module stage3
+Compiling module shifter
+Compiling module stage4
+Compiling module CPU
+Compiling module imem
+Compiling module arbiter
+Compiling module dmem
+Compiling module accumulator
+Compiling module cpu_tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 16 Verilog Units
+Built simulation executable X:/ass5/cpu_tb_isim_beh.exe
+Fuse Memory Usage: 28520 KB
+Fuse CPU Usage: 421 ms
